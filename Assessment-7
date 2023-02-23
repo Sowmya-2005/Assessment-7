@@ -1,4 +1,4 @@
-#Print nth multiplication table. Read n value from the user.
+//Print nth multiplication table. Read n value from the user.
 #include <stdio.h>
 
   int main(void) {
